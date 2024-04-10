@@ -1,0 +1,39 @@
+.box {
+    height: 49px;
+    width: 600px;
+    padding-top: 32px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box-item {
+    border: 2px solid white;
+    padding: 30px 30px;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+    cursor: pointer;
+}
+
+#white {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#yellow {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+#pink {
+    background-color: rgb(253, 97, 123);
+    cursor: pointer;
+}
+#orange{
+    background-color: orange;
+}
