@@ -1,5 +1,5 @@
 # BgChanger
 
-only for my practics
-this is my background changer project made by pure javaScript
-you can add extra colors 
+<p>only for my practics</p>
+<p> this is my background changer project made by pure javaScript</p>
+<p>you can add extra colors </p>
