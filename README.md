@@ -29,6 +29,6 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    git clone https://github.com/your-username/BgChanger.git
-   cd BgChanger
+   <p>cd BgChanger</p>
 
 
